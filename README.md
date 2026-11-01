@@ -1,0 +1,1 @@
+# semna_trading_ro_bot
